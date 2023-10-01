@@ -26,7 +26,6 @@ Also you can save the output with the argument *--filename:[your_file_name]* jus
 ```
  <br />
  
-> [helloworld.bf](helloworld.bf) is an example of the output of `./translator --filename:helloworld.bf --comments`
 
 # ASCII.h
 If you need to, **you can include ASCII.h in any C++ script** and use the 2 functions like this:
